@@ -2,7 +2,7 @@
 ## Python Tutorials and Courses list
 ### A.  Basic Python 
 
-#### Text-Based Resources
+#### I Text-Based Resources
 1. **Official Documentation** : If you want to learn the python in depth and ready to devote a significant amount of time then this is considered as the python bible. Documentation initially seems intimidating because it is vast and really elaborative but don't hesitate to start, it has simple language and great examples.
 https://docs.python.org/3/tutorial/index.html
 
@@ -26,5 +26,5 @@ https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
 
  
 https://automatetheboringstuff.com/
-### B.  For Python Professionals
+### II  For Python Professionals
 1. **Python® Notes for Professionals** : Although the information presented in this book is not guaranteed to be accurate but it is worth a shot for the ones who just want to dig the contents and use Python for their field of interest. https://books.goalkicker.com/PythonBook/
